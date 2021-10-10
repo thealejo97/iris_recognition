@@ -1,6 +1,4 @@
 # iris_recognition
- Este programa lee una imagen de iris buscada y realiza sdv para compararla con un conjunto de imagenes a fin de determinar a cual iris pertenece la imagen
-
 ---------------------- Requisitos ----------------------
 - python==2.7.17
 - Pillow==8.3.1
@@ -9,3 +7,6 @@
 - Requiere imagen en la raiz del proyecto images_svd, llamada search.bmp
 
 Las dependencias se pueden instalar utilizando pip install
+
+Para ejecutar el codigo se hace desde consola usando el comando:
+python proccesor.py

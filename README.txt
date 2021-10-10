@@ -6,3 +6,11 @@
 - Requiere imagen en la raiz del proyecto images_svd, llamada search.bmp
 
 Las dependencias se pueden instalar utilizando pip install
+
+Para ejecutar el codigo se hace desde consola usando el comando:
+python proccesor.py
+
+puede usar como ejemplo las imagenes:
+
+search_bad_example.bmp
+search_example.bmp
